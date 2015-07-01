@@ -1,0 +1,20 @@
+body {
+    padding-top: 70px;
+    padding-bottom: 40px;
+}
+
+#baniere{
+	padding-bottom: 40px;
+}
+
+.nav-tabs {
+    margin-bottom: 20px;
+}
+
+.h2 {
+	margin-bottom: 10px;
+}
+
+#barreRechercher{
+	margin-bottom: 40px;
+}
